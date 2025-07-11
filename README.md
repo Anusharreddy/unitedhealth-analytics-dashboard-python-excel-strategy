@@ -71,5 +71,10 @@ Each section builds on insights gathered directly from UHG’s official filings 
 - Emerj: AI in UnitedHealth  
 - UHG Investor Relations & Earnings Reports
 
+## Download Large Files
+
+Some files in this project exceed GitHub's upload limit and are hosted externally. You can download them from the link(s) below:
+
+- [Download Excel & Notebook Files (Google Drive)](https://drive.google.com/drive/folders/1H3DUj7xRQQa_F_FsBLm8-ErR5IQD_0Ar?usp=drive_link)
 
 > This case study showcases how strategic thinking, data analytics, and financial analysis can be combined to understand and evaluate a global leader in the healthcare industry.
